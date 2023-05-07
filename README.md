@@ -1,4 +1,4 @@
-# Discussion Questions: Components
+# Discussion Questions: Components c
 
 Get together in groups and clone down this repository. Your goal for this
 discussion question is to recreate the app in this demo image:
